@@ -1,5 +1,5 @@
 
-![Hero image](https://github.com/ojoaomorais/joaomorais/blob/main/banner.png)
+![Hero image](https://github.com/ojoaomorais/ojoaomorais/blob/main/banner.png)
 
 Conheça um pouco sobre mim:
 
