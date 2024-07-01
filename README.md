@@ -17,7 +17,7 @@ Saiba mais:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 -->
-- [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>Linkedin](www.linkedin.com/in/ojoaopedromorais)
+- [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>Linkedin](www.linkedin.com/in/joao-pedro-morais-)
 - [<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Cib-kaggle_%28CoreUI_Icons_v1.0.0%29.svg"/>Kaggle](kaggle.com/joaopedromorais1989)
 - [<img align="left" alt="Kaggle" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>Instagram](https://www.instagram.com/_ojoaomorais)
 
