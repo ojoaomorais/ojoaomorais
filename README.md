@@ -3,7 +3,7 @@
 
 Conheça um pouco sobre mim:
 
-- 💻 Atuando atualmente como Sênior iOS Developer no [KMV](https://kmdevantagens.com.br/).
+- 💻 Atuando atualmente como React Native Developer no [KMV](https://kmdevantagens.com.br/).
 - 👨🏻‍🎓 Mestre em Inteligência Artificial pela UFLA. Leia minha dissertação [aqui](http://repositorio.ufla.br/jspui/handle/1/49191?mode=full).
 - 🎖 Entusiasta de projetos Open-Source! Atualmente colaborando na [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - 🌴 Use meus projetos [CocoaPods](https://cocoapods.org/owners/74294)
